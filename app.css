@@ -1,0 +1,9 @@
+.jumbotron{
+	margin: 20px;
+}
+
+.carousel-caption {
+    position: fixed;
+    top: 80%;
+    transform: translate(-40%, -60%);
+}
